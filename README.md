@@ -1,3 +1,8 @@
+## Table of contents
+* [Index](#index)
+* [Technology_Used](#technology_used)
+* [Online_Judge_Profile_Link](#online_judge_profile_link)
+
 ## Index
 
 Serial No. | Problem name | URI Serial No.
@@ -100,3 +105,12 @@ Serial No. | Problem name | URI Serial No.
 95 | Taxes | 1051
 96 | The greatest | 1013
 97 | Triangle | 1043
+
+## Technology_Used
+
+* Sublime Text Editor
+* Jupyter Notebook
+
+## Online_Judge_Profile_Link
+
+* Link: https://www.urionlinejudge.com.br/judge/en/profile/341241
